@@ -2,21 +2,21 @@
 	font-family: 'Stratum2';
 	src: url('Stratum2Regular.ttf') format('truetype');
 	font-weight: 200;
-	font-style: italic;
+	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Stratum2';
 	src: url('Stratum2Medium.ttf') format('truetype');
 	font-weight: 400;
-	font-style: italic;
+	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Stratum2';
 	src: url('Stratum2Bold.ttf') format('truetype');
 	font-weight: bold;
-	font-style: italic;
+	font-style: normal;
 }
 
 @font-face {
